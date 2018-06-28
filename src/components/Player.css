@@ -1,0 +1,13 @@
+.img-size{
+    max-height: 25vh;
+    min-width: 18vw;
+    margin:6px;
+    border: 2px solid #3a7999;
+  }
+
+ 
+img:hover {
+  border: 2px dotted #3a7999;
+  color: #3a7999;
+  background: rgba(0,0,0,0);
+}

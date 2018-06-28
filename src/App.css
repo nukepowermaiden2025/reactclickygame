@@ -1,0 +1,22 @@
+
+html, body {
+    overflow-x: hidden;
+  }
+
+
+
+
+@media (min-width:369px){
+  .wrapper{
+      min-height:100vh;
+      overflow-x:hidden;
+      max-width: 100%;
+
+  }
+
+  .shadow{
+      min-height: 300px;
+  }
+  
+}
+
